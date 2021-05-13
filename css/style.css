@@ -44,6 +44,8 @@ h5 {
 .navbar {
   overflow: hidden;
   background-color: #0066cc;
+  position: fixed;
+  top: 0;
   width: 100%;
 }
 
@@ -104,7 +106,7 @@ h5 {
 
 /* main */
   .main-content {
-  padding: 10px 40px;
+  padding: 40px;
   text-align: center;
 }
 
@@ -113,7 +115,7 @@ h5 {
   text-align: left;
 }
 
-
+/* main profile */
 .main-profile {
   margin: 30px 20px;
   padding: 40px;
@@ -136,7 +138,13 @@ h5 {
   color: black;
 }
 
+#profileimage {
+  float: left;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
 
+/* references */
 .references {
   padding: 10px 5px;
   padding-bottom: 80px;
@@ -144,63 +152,9 @@ h5 {
   clear: both;
 }
 
-#profileimage {
-  float: left;
-  padding-right: 20px;
-  padding-bottom: 20px;
-}
 
 
-#Groupresults {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  
-  padding: 20px;
-}
-
-#ml {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%;
-}
-
-#GroupGraph {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-figure {
-  width: 30%;
-  text-align: center;
-  font-style: italic;
-  font-size: smaller;
-  text-indent: 0;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#id {
-  float: left;
-}
-
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-  margin: 20px;
-}
-th, td {
-  padding: 5px;
-  text-align: left;
-}
-
-table.center {
-  margin-left: auto;
-  margin-right: auto;
-}
-
+/* Image or table caption */
 caption {
   text-align: center;
   font-style: italic;
