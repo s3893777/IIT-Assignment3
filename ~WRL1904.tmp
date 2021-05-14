@@ -15,34 +15,32 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Peter</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Peter</o:LastAuthor>
-  <o:Revision>8</o:Revision>
-  <o:TotalTime>135</o:TotalTime>
-  <o:Created>2021-05-14T02:04:00Z</o:Created>
-  <o:LastSaved>2021-05-14T03:33:00Z</o:LastSaved>
-  <o:Pages>8</o:Pages>
-  <o:Words>1971</o:Words>
-  <o:Characters>11241</o:Characters>
-  <o:Lines>93</o:Lines>
-  <o:Paragraphs>26</o:Paragraphs>
-  <o:CharactersWithSpaces>13186</o:CharactersWithSpaces>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>20</o:TotalTime>
+  <o:Created>2021-05-14T01:38:00Z</o:Created>
+  <o:LastSaved>2021-05-14T01:38:00Z</o:LastSaved>
+  <o:Pages>4</o:Pages>
+  <o:Words>1155</o:Words>
+  <o:Characters>6590</o:Characters>
+  <o:Lines>54</o:Lines>
+  <o:Paragraphs>15</o:Paragraphs>
+  <o:CharactersWithSpaces>7730</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=dataStoreItem href="plans%20and%20progress%20a3_files/item0006.xml"
-target="plans%20and%20progress%20a3_files/props007.xml">
+<link rel=dataStoreItem href="plans%20and%20progress%20a3_files/item0001.xml"
+target="plans%20and%20progress%20a3_files/props002.xml">
 <link rel=themeData href="plans%20and%20progress%20a3_files/themedata.thmx">
 <link rel=colorSchemeMapping
 href="plans%20and%20progress%20a3_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:View>Print</w:View>
-  <w:Zoom>143</w:Zoom>
   <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
-  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackMoves/>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
   <w:ValidateAgainstSchemas/>
@@ -665,13 +663,6 @@ href="plans%20and%20progress%20a3_files/colorschememapping.xml">
 <!--
  /* Font Definitions */
  @font-face
-	{font-family:Wingdings;
-	panose-1:5 0 0 0 0 0 0 0 0 0;
-	mso-font-charset:2;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:0 268435456 0 0 -2147483648 0;}
-@font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
 	mso-font-charset:0;
@@ -729,7 +720,8 @@ a:visited, span.MsoHyperlinkFollowed
 	text-decoration:underline;
 	text-underline:single;}
 p
-	{mso-style-priority:99;
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-margin-top-alt:auto;
 	margin-right:0cm;
 	mso-margin-bottom-alt:auto;
@@ -738,97 +730,6 @@ p
 	font-size:12.0pt;
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";}
-p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:8.0pt;
-	margin-left:36.0pt;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:8.0pt;
-	margin-left:36.0pt;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;}
 span.SpellE
 	{mso-style-name:"";
 	mso-spl-e:yes;}
@@ -860,226 +761,6 @@ span.GramE
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
-@page WordSection2
-	{size:595.3pt 841.9pt;
-	margin:72.0pt 72.0pt 72.0pt 72.0pt;
-	mso-header-margin:35.4pt;
-	mso-footer-margin:35.4pt;
-	mso-paper-source:0;}
-div.WordSection2
-	{page:WordSection2;}
- /* List Definitions */
- @list l0
-	{mso-list-id:715204572;
-	mso-list-type:hybrid;
-	mso-list-template-ids:633378548 1981575048 201916419 201916421 201916417 201916419 201916421 201916417 201916419 201916421;}
-@list l0:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:-;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Calibri Light",sans-serif;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;}
-@list l0:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l0:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l0:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l0:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l0:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l0:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l0:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l0:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l1
-	{mso-list-id:1584024465;
-	mso-list-type:hybrid;
-	mso-list-template-ids:1175235230 -832903352 201916419 201916421 201916417 201916419 201916421 201916417 201916419 201916421;}
-@list l1:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:-;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Calibri Light",sans-serif;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;}
-@list l1:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l1:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l1:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l1:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l1:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l1:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l1:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l1:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l2
-	{mso-list-id:1661613089;
-	mso-list-type:hybrid;
-	mso-list-template-ids:-2121750128 1773824656 201916419 201916421 201916417 201916419 201916421 201916417 201916419 201916421;}
-@list l2:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:-;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Calibri Light",sans-serif;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;}
-@list l2:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l2:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l2:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l2:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l2:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l2:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l2:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l2:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-ol
-	{margin-bottom:0cm;}
-ul
-	{margin-bottom:0cm;}
 -->
 </style>
 <!--[if gte mso 10]>
@@ -1125,23 +806,17 @@ word-wrap:break-word'>
 <p class=MsoNormal><span lang=EN-US style='font-size:18.0pt;line-height:107%;
 font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
 mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:
-EN-US'>Plans and progress<o:p></o:p></span></p>
+EN-US'>Plans and <span class=GramE>progress</span> <o:p></o:p></span></p>
 
-</div>
-
-<span lang=EN-US style='font-size:18.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-ascii-theme-font:major-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
-minor-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;
-mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><br
-clear=all style='page-break-before:left;mso-break-type:section-break'>
-</span>
-
-<div class=WordSection2>
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;line-height:107%;
+font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
+mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><b><span style='font-size:12.0pt;line-height:107%;
 font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
 mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>What is Bake
-Bot<o:p></o:p></span></b></p>
+Bot?<o:p></o:p></span></b></p>
 
 <p><span style='font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
 major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;
@@ -1199,6 +874,13 @@ search for recipes to find those surprise favourites. <o:p></o:p></span></p>
 
 <p><span style='font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
 major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;
+color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p style='font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
+widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
+text-decoration-style: initial;text-decoration-color: initial;word-spacing:
+0px'><span style='font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:
+major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;
 color:black'>Bake Bot doesn’t just help you bake, <span class=GramE>it</span>
 teachers you too. Bake Bot’s&nbsp;<i>Baking Beginner's Guide</i>&nbsp;provides
 users with a structured ten recipe short course to teach the fundamentals of
@@ -1227,7 +909,22 @@ fingertips.<o:p></o:p></span></p>
 <p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;line-height:107%;
 font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
 mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:
-EN-US'>How It works.<o:p></o:p></span></p>
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;line-height:107%;
+font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
+mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;line-height:107%;
+font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
+mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;line-height:107%;
+font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
+mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:
+EN-US'>How It works<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
@@ -1291,9 +988,19 @@ ingredients there will be pre-determined conversion algorithms such as<o:p></o:p
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>128grams = 1 cup. <span
-style='mso-spacerun:yes'> </span>4.2 cups = 1 ltr. 1 ltr = .26 gallon. <span
-style='mso-spacerun:yes'> </span>0075Gallon = 1 ounce <o:p></o:p></span></p>
+major-latin;mso-bidi-theme-font:major-latin'>128grams = 1 cup. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'>4.2 cups = 1 ltr<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'>1 ltr = .26 gallon <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'>.0075Gallon = 1 ounce <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
@@ -1316,83 +1023,7 @@ measurements Bake Bot will calculate the standard recipe divide the ingredients
 by amount of people in that same recipe and determine the per person ratio.
 Once that is determined the user will select the correct amount of people they <span
 class=GramE>want, and</span> Bake Bot will multiply the per person ingredient
-ration to the desired person count.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:18.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Story &amp; Progress. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Our progress on Bake Bot. In the
-early progress of the Bake <span class=GramE>Bot</span> we were first trying to
-establish connections, build report and understand each other, in order to know
-who we are working with. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>After we got to know each other a
-little better, it was time to understand the projects. <span
-style='mso-spacerun:yes'> </span>We started with a group discussion about all
-our project ideas, how they worked and who they benefited. We agreed Bake Bot was
-the best project to work on, so we moved into gaining greater understandings on
-it. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Once the project ideas were heard
-and fully <span class=GramE>comprehended</span> we moved on to discussing some
-features and benefits of the website. <br>
-We discussed the features in a bit more in depth to gain a thorough
-understanding and agreed on what <span class=GramE>will we will</span> be able
-to manage, and what will work for the assignments. We agreed to keep Bake Bot
-as simple as possible <span class=GramE>In</span> order to make it a user friendly
-and an achievable target. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Once we understood the end <span
-class=GramE>product</span> we needed to understand what was behind each feature
-and how to develop that. We are still in the progress of understanding what
-technology is going into the back end to ensure smooth and <span class=GramE>cost
-effective</span> operation. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>We are currently in discussions
-about design and layout, we have agreed one version one of Blakes 3 designs. We
-agree we want Bake Bot to be as simple as possible to use, with a modern comforting
-home cooking theme. When a user sees our <span class=GramE>page</span> they
-instantly can feel the vibe we are going for, warm heart filling home baking
-vibe where you can almost smell walking into a house with the oven on baking
-something delicious yet to be discovered. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>We have allocated roles, <span
-class=GramE>titles</span> and positions.<span style='mso-spacerun:yes'> 
-</span>This was a discussion and analysation of persons characters. We tried to
-align each person in their best role according to their previous personality
-test and ideal job outcome. We wanted each person in their position of strength.
-We took the approach here of building a strong company rather putting people
-where they are weaker and needed strengthening on. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Basic foundations have been set out
-and white boarded, we have discussed and designed the features and UI, we have
-discussed and gained understanding in how each feature works and who it will benefit.
-We have established our target audience, monetization structure and a basic
-road map. These are only foundations for us to work from and there is a lot
-more involved in the future to develop this. <o:p></o:p></span></p>
+ration to the desired person count. <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
@@ -1408,7 +1039,108 @@ major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Why Blake Bot?<o:p></o:p></span></p>
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><br style='mso-special-character:
+line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'>how far you have got with
+developing any features or outcomes from you\<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'>ur project XXXXXXX<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
+"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
+major-latin;mso-bidi-theme-font:major-latin'>Tell us about the “story&quot; of
+your project.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
@@ -1437,566 +1169,41 @@ major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
 major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span style='font-size:18.0pt;line-height:107%;font-family:
+<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Current Stage <o:p></o:p></span></p>
+major-latin;mso-bidi-theme-font:major-latin'>how it has progressed XXXXXXXX</span><span
+lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
+mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+major-latin;mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><br>
-Currently we have a thorough understanding of what we want, we are now looking
-in how the achieve the desired outcome, what technology is needed. <span
-style='mso-spacerun:yes'> </span>We have had discussions of building <span
-class=SpellE>protoypes</span> or designing the app on <span class=SpellE>mit</span>
-app innovator. <o:p></o:p></span></p>
+major-latin;mso-bidi-theme-font:major-latin'>and what stage of the plan you are
+up to XXXXXX<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><br>
-<br>
-<span class=GramE>Dead-ends</span> <o:p></o:p></span></p>
+major-latin;mso-bidi-theme-font:major-latin'>Include any <span class=GramE>dead-ends</span>
+you may have followed XXXXX<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>We are lucky we are yet to run
-into a dead end, although we are ever progressing and <span class=SpellE>learing</span>
-from feedback and realisation of deadlines we haven’t hit any <span
-class=GramE>road blocks</span>. I suspect this is due to in depth discussions
-and planning. We are yet to establish a recipe database which we will have to
-acquire which may through a <span class=GramE>road block</span> at us especially
-considering budget copy write. We may also run into a time issue with inputting
-and data management, customising each recipe to fit our calculators and integration
-with our potential <span class=SpellE>api’s</span>.<o:p></o:p></span></p>
+major-latin;mso-bidi-theme-font:major-latin'>decisions made, and changes that
+have been made to the project plan. XXXX<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
+major-latin;mso-bidi-theme-font:major-latin'>include significant amount of
+detail, so that it is easily seen what precisely you have done and are planning
+to do.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
 "Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><span
-style='mso-spacerun:yes'> </span>Discussions and change of directions. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Initially wanted Bake Bot to be a
-data base of recipe’s that users could access. Although we realised this may be
-limiting ourselves to what recipe the user can access. What if they <span
-class=GramE>don’t</span> like our version of the recipe? After a discussion
-about the limitations of just having our own <span class=GramE>recipes</span>
-we decided to include a custom recipe feature, where the user can still use our
-calculator with their own recipe. Although <span class=GramE>it’s</span> a lot
-more time consuming for the user to input their own ingredients, its an option
-for them in the case they have their own recipe they want to convert. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Past contribution<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Meet and <span
-class=GramE>greet</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Discuss ideas
-about <span class=GramE>projects</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Agreed on
-this <span class=GramE>project</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Discussed ideal
-<span class=GramE>features</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Set weekly
-progress <span class=GramE>meetings</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Agreed on <span
-class=SpellE>on</span> the minimum ideal <span class=GramE>features</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Researched market
-and competition<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Researched what
-tools will be <span class=GramE>needed</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Researched ideal
-<span class=GramE>client</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Researched and
-agreed on monetization <span class=GramE>strategy</span> <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Discussed road
-<span class=GramE>blocks</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Added features
-to accommodate larger <span class=GramE>market</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Allocated
-team roles<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Researched
-futureproofing (Future Tech) <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Discussed
-what would be needed to bring our technology into a <span class=GramE>business</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast style='text-indent:-18.0pt;mso-list:l0 level1 lfo3'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>White boarded
-the <span class=GramE>future plan</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Future planning of Blake Bot will
-require the set up of <br style='mso-special-character:line-break'>
-<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-<![endif]><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Amazon AWS<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>MIT app
-innovator<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Design UI
-with prototype<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Domain name acquisition
-&amp; domain hosting service<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Business plan<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Business name
-and Australian entity set <span class=GramE>up</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Go to market <span
-class=GramE>strategy</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Discuss strategic
-partners &amp; <span class=GramE>influences</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Plan marketing
-budgets<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Implement Roles,
-such as customer support, <span class=GramE>back end</span> management,
-accounts management, recipe and data management/integration and sales. <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Begin
-relations with <span class=GramE>accountants</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>More thorough
-market research and competition analysation. <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Google Analytics
-<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Google business
-emails<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Google Ads<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Google Ad
-words &amp; SEO<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Xero &amp; Stripe
-invoices and accounts <o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Business bank
-account<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Relations
-with Accountant/Bookkeeper<o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt;mso-list:l2 level1 lfo2'><![if !supportLists]><span
-style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
-mso-fareast-font-family:"Calibri Light"'><span style='mso-list:Ignore'>-<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'>Funding
-partnerships / Equity <span class=GramE>raising</span><o:p></o:p></span></p>
-
-<p class=MsoListParagraphCxSpLast><span style='font-size:12.0pt;line-height:
-107%;font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin'><br
-style='mso-special-character:line-break'>
-<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
-<![endif]><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Future insight?<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Integration with IOT such as smart
-appliances, scales, ovens, timers, <span class=SpellE>thermomix</span>, microwave,
-thermometer, blender, rangehood, fridge &amp; AI photo/text ingredient
-extraction.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>As of <span class=GramE>today</span>
-the future of Bake Bot will need a strong marketing focus to get into every
-home bakers life, there needs to be a strong influence on people to go to our
-app opposed to searching google for their calculations, Blake Bot needs to be
-efficient, if its not saving time for you, you wont use it. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Our basic plan of monetisation is
-to generate as much website traffic and clicks on page as possible to promote
-ads and sponsorships. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'>Our target audience are home bakers,
-our tool is designed to reduce stress and basically hold your hand through the
-customisation of any baking recipe making the scalability of recipes a no
-brainer. <o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span style='font-size:12.0pt;line-height:107%;font-family:
-"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-major-latin;mso-bidi-theme-font:major-latin'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-size:12.0pt;line-height:107%;
-font-family:"Calibri Light",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;mso-ansi-language:
-EN-US'><o:p>&nbsp;</o:p></span></p>
+major-latin;mso-bidi-theme-font:major-latin'>What would you want to know, if
+you were one of the people <span class=GramE>taking over</span></span><span
+lang=EN-US style='font-size:12.0pt;line-height:107%;font-family:"Calibri Light",sans-serif;
+mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
+major-latin;mso-ansi-language:EN-US'><o:p></o:p></span></p>
 
 </div>
 
