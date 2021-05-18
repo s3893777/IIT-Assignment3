@@ -42,8 +42,9 @@ h5 {
 
 /* Layout - navigation*/
 .navbar {
-  overflow: hidden;
   background-color: #0066cc;
+  position: fixed;
+  top: 0;
   width: 100%;
 }
 
@@ -104,7 +105,7 @@ h5 {
 
 /* main */
   .main-content {
-  padding: 40px;
+  padding: 50px;
   text-align: center;
 }
 
@@ -151,6 +152,13 @@ caption {
   font-style: italic;
   font-size: smaller;
   text-indent: 0;
+}
+
+/* images */
+#profileimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Footer */
