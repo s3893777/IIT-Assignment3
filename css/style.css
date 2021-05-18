@@ -29,6 +29,9 @@ h3 {
   padding-top: 20px;
 }
 
+h4 {
+  font-size: 12px;
+}
 
 h5 {
   font-size: 18px;
@@ -37,13 +40,8 @@ h5 {
   padding-top: 20px;
 }
 
-h6 {
-  font-size: 12px;
-}
-
 /* Layout - navigation*/
 .navbar {
-  overflow: hidden;
   background-color: #0066cc;
   position: fixed;
   top: 0;
@@ -107,7 +105,7 @@ h6 {
 
 /* main */
   .main-content {
-  padding: 10px 40px;
+  padding: 50px;
   text-align: center;
 }
 
@@ -116,7 +114,7 @@ h6 {
   text-align: left;
 }
 
-/* main profile */
+
 .main-profile {
   margin: 30px 20px;
   padding: 40px;
@@ -139,13 +137,7 @@ h6 {
   color: black;
 }
 
-#profileimage {
-  float: left;
-  padding-right: 20px;
-  padding-bottom: 20px;
-}
 
-/* references */
 .references {
   padding: 10px 5px;
   padding-bottom: 80px;
@@ -155,12 +147,18 @@ h6 {
 
 
 
-/* Image or table caption */
 caption {
   text-align: center;
   font-style: italic;
   font-size: smaller;
   text-indent: 0;
+}
+
+/* images */
+#profileimage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Footer */
