@@ -138,6 +138,15 @@ h5 {
 }
 
 
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 15px;
+}
+
 .references {
   padding: 10px 5px;
   padding-bottom: 80px;
